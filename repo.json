@@ -17,9 +17,9 @@
     "LoadPriority": 0,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/iv230/chat-proximity/releases/download/v0.0.8/ChatProximity-v0.0.8.zip",
-    "DownloadLinkTesting": "https://github.com/iv230/chat-proximity/releases/download/v0.0.8/ChatProximity-v0.0.8.zip",
-    "DownloadLinkUpdate": "https://github.com/iv230/chat-proximity/releases/download/v0.0.8/ChatProximity-v0.0.8.zip",
+    "DownloadLinkInstall": "https://github.com/Sesepoki-Industries/sese-plugins/releases/download/EorzianTinder/EorzianTinder.zip",
+    "DownloadLinkTesting": "https://github.com/Sesepoki-Industries/sese-plugins/releases/download/EorzianTinder/EorzianTinder.zip",
+    "DownloadLinkUpdate": "https://github.com/Sesepoki-Industries/sese-plugins/releases/download/EorzianTinder/EorzianTinder.zip",
     "IconUrl": "https://raw.githubusercontent.com/iv230/dalamud-repo/main/icon.png",
     "Tags": [
       "chat",
